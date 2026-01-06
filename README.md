@@ -194,16 +194,6 @@ DriveMaster-Downloads/
 
 Developed by **AbdulRhman AbdulGhaffar**
 
----
-
-## 📄 License
-
-Choose one:
-
-* MIT License (recommended for open-source)
-* GPL (if you prefer copyleft)
-
-> Add a `LICENSE` file to your repository.
 
 ---
 
